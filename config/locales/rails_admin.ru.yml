@@ -29,6 +29,7 @@ ru:
       export_selected: "Эспортировать выделенное"
       add_new: "Добавить"
       search: "ПОИСК"
+      show_action: "Посмотреть"
       select: "Выберите %{name} для редактирования"
       show_all: "Показать все"
       add_filter: "Add filter"
